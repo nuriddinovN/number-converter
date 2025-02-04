@@ -1,4 +1,3 @@
-
 let decimal=document.getElementById("decimal");
 let hex=document.getElementById("hexa");
 let octal=document.getElementById("octal");
